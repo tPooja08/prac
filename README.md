@@ -1,1 +1,2 @@
 # prac
+print ("hello world")
